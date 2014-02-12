@@ -8,6 +8,7 @@ Fork this Lib and do a pull request. I will merge your changes back into the mai
 
 # Screenshot
 
+![Screenshot](https://github.com/azapps/ilovefs-android/blob/master/screenshot.png)
 
 # How to use
 Add the following code to the activity you want to show the dialog:
