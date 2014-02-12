@@ -34,6 +34,20 @@ Insert your data and it's ready.
 
 # Build Example App with Gradle
 
+Clone this repo in the root directory of your project.
+
+Add the following lines to the end of your `build.gradle` (or add it directly to the dependencies section:
+```
+dependencies {
+    compile project(':ilovefs-android')
+}
+```
+
+Add the following line to the `settings.gradle`:
+```
+include 'ilovefs-android'
+```
+
 
 # Add the lib to your eclipse project
 
