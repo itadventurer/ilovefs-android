@@ -1,6 +1,6 @@
 # Android I love Free Software Day library
 
-Shows a dialog with informations about the #ilovefs day. You can add buttons to rate your app, write you a message and a donation button.
+Shows a dialog with informations about the [#ilovefs](https://fsfe.org/campaigns/ilovefs/) day. You can add buttons to rate your app, write you a message and a donation button.
 
 # Contribute
 
